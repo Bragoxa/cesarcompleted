@@ -1,0 +1,16 @@
+C:\Users\Eduard\Desktop\Институт MIREA\7 семестр\защ инф\цезарь\cesar с ключевым словом c#\cesarkeyword\cesarkeyword\obj\Debug\net5.0\cesarkeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduard\Desktop\Институт MIREA\7 семестр\защ инф\цезарь\cesar с ключевым словом c#\cesarkeyword\cesarkeyword\obj\Debug\net5.0\cesarkeyword.AssemblyInfoInputs.cache
+C:\Users\Eduard\Desktop\Институт MIREA\7 семестр\защ инф\цезарь\cesar с ключевым словом c#\cesarkeyword\cesarkeyword\obj\Debug\net5.0\cesarkeyword.AssemblyInfo.cs
+C:\Users\Eduard\Desktop\Институт MIREA\7 семестр\защ инф\цезарь\cesar с ключевым словом c#\cesarkeyword\cesarkeyword\obj\Debug\net5.0\cesarkeyword.csproj.CoreCompileInputs.cache
+C:\Users\Eduard\Desktop\Институт MIREA\7 семестр\защ инф\цезарь\cesar с ключевым словом c#\cesarkeyword\cesarkeyword\bin\Debug\net5.0\cesarkeyword.exe
+C:\Users\Eduard\Desktop\Институт MIREA\7 семестр\защ инф\цезарь\cesar с ключевым словом c#\cesarkeyword\cesarkeyword\bin\Debug\net5.0\cesarkeyword.deps.json
+C:\Users\Eduard\Desktop\Институт MIREA\7 семестр\защ инф\цезарь\cesar с ключевым словом c#\cesarkeyword\cesarkeyword\bin\Debug\net5.0\cesarkeyword.runtimeconfig.json
+C:\Users\Eduard\Desktop\Институт MIREA\7 семестр\защ инф\цезарь\cesar с ключевым словом c#\cesarkeyword\cesarkeyword\bin\Debug\net5.0\cesarkeyword.runtimeconfig.dev.json
+C:\Users\Eduard\Desktop\Институт MIREA\7 семестр\защ инф\цезарь\cesar с ключевым словом c#\cesarkeyword\cesarkeyword\bin\Debug\net5.0\cesarkeyword.dll
+C:\Users\Eduard\Desktop\Институт MIREA\7 семестр\защ инф\цезарь\cesar с ключевым словом c#\cesarkeyword\cesarkeyword\bin\Debug\net5.0\ref\cesarkeyword.dll
+C:\Users\Eduard\Desktop\Институт MIREA\7 семестр\защ инф\цезарь\cesar с ключевым словом c#\cesarkeyword\cesarkeyword\bin\Debug\net5.0\cesarkeyword.pdb
+C:\Users\Eduard\Desktop\Институт MIREA\7 семестр\защ инф\цезарь\cesar с ключевым словом c#\cesarkeyword\cesarkeyword\obj\Debug\net5.0\cesarkeyword.dll
+C:\Users\Eduard\Desktop\Институт MIREA\7 семестр\защ инф\цезарь\cesar с ключевым словом c#\cesarkeyword\cesarkeyword\obj\Debug\net5.0\ref\cesarkeyword.dll
+C:\Users\Eduard\Desktop\Институт MIREA\7 семестр\защ инф\цезарь\cesar с ключевым словом c#\cesarkeyword\cesarkeyword\obj\Debug\net5.0\cesarkeyword.pdb
+C:\Users\Eduard\Desktop\Институт MIREA\7 семестр\защ инф\цезарь\cesar с ключевым словом c#\cesarkeyword\cesarkeyword\obj\Debug\net5.0\cesarkeyword.genruntimeconfig.cache
+C:\Users\Eduard\Desktop\Институт MIREA\7 семестр\защ инф\цезарь\cesar с ключевым словом c#\cesarkeyword\cesarkeyword\obj\Debug\net5.0\cesarkeyword.csprojAssemblyReference.cache
